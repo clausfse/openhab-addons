@@ -31,7 +31,7 @@ To manually configure a DCH-S150 Thing you must specify its IP address and PIN c
 In the Thing file, this looks like e.g.
 
 ```java
-  Thing dlinksmarthome:DCH-S150:mysensor [ ipAddress="192.168.2.132" pin="1234" ]
+  Thing dlinksmarthome:DCH-S150:mysensor [ ipAddress="192.168.2.132", pin="1234" ]
 ```
 
 ## Channels
